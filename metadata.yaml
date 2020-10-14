@@ -1,0 +1,33 @@
+_repo: The-Book-of-the-Pearl-The-history-art-science-and-industry-of-the-queen-of-gems_63299
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Kunz, George Frederick
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '6451'
+    url: http://www.gutenberg.org/2009/agents/6451
+    wikipedia: https://en.wikipedia.org/wiki/George_Frederick_Kunz
+  - agent_name: Stevenson, Charles Hugh
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '52367'
+    url: http://www.gutenberg.org/2009/agents/52367
+description: ''
+gutenberg_issued: '2020-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63299'
+  lccn: 08029321
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Pearls'
+- GITenberg
+title: 'The Book of the Pearl
+
+  The history, art, science, and industry of the queen of gems'
+url: http://www.gutenberg.org/ebooks/63299
